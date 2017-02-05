@@ -1,0 +1,49 @@
+/* HEADER */
+.navbar {
+  background-color: #336285;
+  border-radius: 0;
+}
+
+.navbar-header button {
+  color: #fff;
+}
+
+.navbar .navbar-brand {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.navbar-nav {
+  margin: 10px -15px;
+}
+
+#collapsable-nav.collapse.in, #collapsable-nav.collapsing {
+  background-color: #ddd;
+}
+
+#nav-list {
+  padding: 10px 0;
+}
+
+#nav-list li {
+  text-align: center;
+  color: #000;
+  font-size: 18px;
+}
+
+#nav-list hr {
+  border-color: #888;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  background-color: #f2f6fa;
+  margin: 0 15px;
+
+  font-size: 16px;
+}
+
+.main-content section {
+  padding-bottom: 10px;
+}
